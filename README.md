@@ -15,3 +15,17 @@ This portfolio serves as a documentation of my skills, projects, and growth as I
 * **Master of Cyber Security (WQE7001):** University of Malaya (Ongoing).
 * **Fundamental Network Security:** Self-study on routing and switching.
 * **Open Source Security Tools:** Hands-on practice with SIEM and EDR solutions.
+
+## 4. Project Experience
+
+### Project A: Network Vulnerability Assessment
+* **Objective:** To identify open ports and potential security loopholes in a lab network environment.
+* **Tools Used:** Nmap, Metasploitable, Nessus.
+* **Methodology:** Conducted ping sweeps to discover live hosts, followed by service version detection. Analyzed results to classify risks.
+* **Outcome:** Successfully mapped the network topology and identified 3 critical vulnerabilities (e.g., outdated FTP services).
+
+### Project B: Log Monitoring with SIEM
+* **Objective:** To set up a centralized log monitoring system for intrusion detection.
+* **Tools Used:** Wazuh (Open Source SIEM).
+* **Methodology:** Deployed Wazuh manager and agents on a virtual machine. Configured rules to alert on failed SSH login attempts.
+* **Outcome:** Achieved real-time visibility of security events and generated automated alerts for suspicious activities.
