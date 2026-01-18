@@ -41,4 +41,5 @@ My goal is to secure a position as a **Cybersecurity Professional**, where I can
 
 ## 7. Contact Information
 * **LinkedIn:** [YUAN HAORAN](https://www.linkedin.com/in/%E6%B5%A9%E7%84%B6-%E8%A2%81-479b653a6/)
-* **GitHub:** [https://github.com/YourUsername/cybersecurity-portfolio](https://github.com/) *(Note: GitHub automatically links to this profile)*
+* **GitHub:** [https://github.com/24228654-cell/cybersecurity-portfolio](https://github.com/) 
+
