@@ -29,3 +29,12 @@ This portfolio serves as a documentation of my skills, projects, and growth as I
 * **Tools Used:** Wazuh (Open Source SIEM).
 * **Methodology:** Deployed Wazuh manager and agents on a virtual machine. Configured rules to alert on failed SSH login attempts.
 * **Outcome:** Achieved real-time visibility of security events and generated automated alerts for suspicious activities.
+
+## 5. Learning Journey
+Throughout the WQE7001 Cyber Security course, I have gained deep insights into modern detection technologies like SIEM and EDR.
+* **Progress:** I have improved my understanding of how SOC teams operate.
+* **Challenges:** Initially, configuring alerting rules was complex, but consistent practice has helped.
+* **Future Plan:** I plan to focus on cloud security and obtain industry-recognized certifications to validate my skills.
+
+## 6. Career Objective
+My goal is to secure a position as a **Cybersecurity Professional**, where I can utilize my analytical skills to monitor, detect, and respond to security incidents effectively.
